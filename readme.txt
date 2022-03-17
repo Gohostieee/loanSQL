@@ -3,4 +3,5 @@
 #i already had practice with objects and i understood them pretty well but yk it doesnt hurt to practicess
 # however i have zero clue how loans work so im pretty certain this thing doesnt work
 # its not a bug its just me genuinely having 0 clue what im even supposed to do
+# I have never taken out a loan and researching too deeply into it would be a little overkill for such a miniscule project
 # comparing it to actual loan calculators annually it seems fine? but monthly its completely off
